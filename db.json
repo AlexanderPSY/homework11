@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Иван",
+      "surname": "Иванов",
+      "email": "ivan@gmail.com",
+      "phone": "1234567"
+    },
+    {
+      "id": 2,
+      "name": "Васян",
+      "surname": "Васянов",
+      "email": "vas@gmail.com",
+      "phone": "1457893"
+    },
+    {
+      "id": 3,
+      "name": "Петро",
+      "surname": "Петронов",
+      "email": "petr@gmail.com",
+      "phone": "9584726"
+    },
+    {
+      "id": 4,
+      "name": "Алексей",
+      "surname": "Алексенов",
+      "email": "alex@gmail.com",
+      "phone": "2947583"
+    },
+    {
+      "id": 5,
+      "name": "Сергей",
+      "age": "Серегов",
+      "surname": "Иванов",
+      "email": "serj@gmail.com",
+      "phone": "2495883"
+    }
+  ]
+}
